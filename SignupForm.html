@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>LoraAI</title>
+    <link rel="stylesheet" href="./styles/style.css">
+  </head>
+  <body>
+   
+      <div class="signup">
+        <div class="content">
+          <h2>Regisztráció</h2>
+          <div class="form">
+            <div class="inputBox">
+              <input type="text" name="last-name" id="last-name" onblur="validateField('last-name')">
+              <i>Vezetéknév</i>
+            </div>
+            <div class="inputBox">
+              <input type="text" name="first-name" id="first-name" onblur="validateField('first-name')">
+              <i>Keresztnév</i>
+            </div>
+            <div class="inputBox">
+              <input type="text" name="mail" id="mail" onblur="validateField('mail')">
+              <i>Email cím</i>
+            </div>
+            <div class="inputBox">
+              <input type="password" name="user-password" id="user-password" onblur="validateField('user-password')">
+              <i>Jelszó</i>
+            </div>
+            <div class="inputBox">
+              <input type="password" name="user-password-confirm" id="user-password-confirm" onblur="validateField('user-password-confirm')">
+              <i>Jelszó megerősítése</i>
+            </div>
+            <div class="links"> 
+              <a>Van már fiókod?</a> 
+              <a href="LoginForm.html">Bejelentkezés</a> 
+            </div>
+            <div class="message" id="message"></div>
+            <div class="inputBox">
+              <input type="submit" value="Regisztráció" class="submit-btn" id="submit-button">
+            </div>
+          </div>
+        </div>
+      </div> 
+            
+        </section>
+
+    <script src="./js/signinup/signupvalidation.js"></script>
+	<script src="./js/signinup/registration.js"></script>
+  </body> 
+ 
+</html>

@@ -1,0 +1,39 @@
+[2023-11-11 18:23:39] Session maxAge: 3599999
+[2023-11-11 18:23:46] Session maxAge: 3599999
+[2023-11-11 18:23:46] Received login request from ::ffff:192.168.0.2
+[2023-11-11 18:23:46] Request body: {"email":"test@test.hu","password":"****"}
+[2023-11-11 18:23:46] Login successful for email: test@test.hu, sessionID: spmZzyGzg2Q45xYUtpopPezad1ZQLhlk
+[2023-11-11 18:23:47] Session maxAge: 7199540
+[2023-11-11 18:23:47] Session maxAge: 3599999
+[2023-11-11 18:23:57] Session maxAge: 3599999
+[2023-11-11 18:24:07] Session maxAge: 3599999
+[2023-11-11 18:24:17] Session maxAge: 3599999
+[2023-11-11 18:24:27] Session maxAge: 3600000
+[2023-11-11 18:24:37] Session maxAge: 3599999
+[2023-11-11 18:24:47] Session maxAge: 3600000
+[2023-11-11 18:24:57] Session maxAge: 3599999
+[2023-11-11 18:25:07] Session maxAge: 3600000
+[2023-11-11 18:25:17] Session maxAge: 3599999
+[2023-11-11 18:25:27] Session maxAge: 3600000
+[2023-11-11 18:25:37] Session maxAge: 3599999
+[2023-11-11 18:25:47] Session maxAge: 3600000
+[2023-11-11 18:26:29] Session maxAge: 3600000
+[2023-11-11 18:27:29] Session maxAge: 3600000
+[2023-11-11 18:32:02] Server is running at https://localhost:3050
+[2023-11-11 18:32:22] ${req.session.userId} -  Session maxAge: 3599999
+[2023-11-11 18:32:31] ${req.session.userId} -  Session maxAge: 3600000
+[2023-11-11 18:32:31] Received login request from ::ffff:192.168.0.2
+[2023-11-11 18:32:31] Request body: {"email":"test@test.hu","password":"****"}
+[2023-11-11 18:32:31] Login successful for email: test@test.hu, sessionID: 49fo4aXVkAMn-05c0FdLwigDk6kgvcmn
+[2023-11-11 18:32:31] ${req.session.userId} -  Session maxAge: 3599599
+[2023-11-11 18:32:31] ${req.session.userId} -  Session maxAge: 3600000
+[2023-11-11 18:32:42] ${req.session.userId} -  Session maxAge: 3599999
+[2023-11-11 18:32:52] ${req.session.userId} -  Session maxAge: 3600000
+[2023-11-11 18:33:02] ${req.session.userId} -  Session maxAge: 3600000
+[2023-11-11 18:33:12] ${req.session.userId} -  Session maxAge: 3600000
+[2023-11-11 18:33:22] ${req.session.userId} -  Session maxAge: 3599999
+[2023-11-11 18:33:32] ${req.session.userId} -  Session maxAge: 3600000
+[2023-11-11 18:34:29] ${req.session.userId} -  Session maxAge: 3599999
+[2023-11-11 18:35:29] ${req.session.userId} -  Session maxAge: 3600000
+[2023-11-11 18:36:29] Server is running at https://localhost:3050
+
