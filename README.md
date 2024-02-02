@@ -12,7 +12,7 @@ The frontend includes several validation and verification functionalities. Durin
 # Running the Server
 The server code is written in Java, requiring Node.js for execution.
 
-**NOTE:** Note: Before use, make sure to replace the server URL data with custom data.
+**NOTE:** Before use, make sure to replace the server URL data with custom data.
 
 For further details, please refer to the code and comments within the repository.
 
