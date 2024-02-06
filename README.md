@@ -10,7 +10,7 @@ The server is equipped with session-based authentication to implement automated 
 The frontend includes several validation and verification functionalities. During registration, it checks if someone has already registered with the given email address. If so, it does not allow registration with the same email address. Additionally, password validation is implemented, specifying a minimum password complexity requirement. The password must contain at least 8 characters, including lowercase, uppercase, numeric, and special characters.
 
 # Running the Server
-The server code is written in Java, requiring Node.js for execution.
+The server code is written in Javascript, requiring Node.js for execution.
 
 **NOTE:** Before use, make sure to replace the server URL data with custom data.
 
